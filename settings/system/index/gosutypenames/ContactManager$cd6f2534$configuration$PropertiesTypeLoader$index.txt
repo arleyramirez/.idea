@@ -1,0 +1,17 @@
+config.portal.deployments
+config.osgi.framework
+config.extensions.extensions
+config.metadata.metadata
+config.portal.capabilities.contact
+config.metadata.platform_metadata
+config.solr.dataimport
+config.phone.nanpa
+config.plugin.ExternalMappings
+config.locale.es_CO.typelist
+config.locale.en_US.typelist
+config.osgi.platform_framework
+config.config
+gw.lang.SystemProperties
+config.portal.plugins
+gw.acc.dataloader.util.Loader
+config.logging.logging
